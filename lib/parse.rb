@@ -1,5 +1,6 @@
-class Parse
+# frozen_string_literal: true
 
+class Parse
   attr_reader :contents
 
   def initialize
@@ -7,7 +8,7 @@ class Parse
   end
 
   def parse_file(file)
-      File.foreach(file) { |line| @contents << line }
-      @contents = @contents.map { |contents| contents.split(' ') }
-    end
+    File.foreach(file) { |line| @contents << line }
+    @contents = @contents.map { |contents| contents.split(' ') }
   end
+end
