@@ -8,7 +8,6 @@ class Parse
 
   def parse_file(file)
       File.foreach(file) { |line| @contents << line }
-      @contents = @contents.map { |i| i.split(' ') }
-      @contents
+      @contents = @contents.map { |contents| contents.split(' ') }
     end
   end
