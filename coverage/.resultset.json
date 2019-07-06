@@ -1,7 +1,43 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/stuartpethurst/Projects/Smart_Dev_Test/spec/parse_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/stuartpethurst/Projects/Smart_Dev_Test/lib/parse.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        501,
+        501,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
     },
-    "timestamp": 1562404090
+    "timestamp": 1562415446
   }
 }
