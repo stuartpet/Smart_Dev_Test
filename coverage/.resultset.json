@@ -1,27 +1,6 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/stuartpethurst/Projects/Smart_Dev_Test/spec/list_views_spec.rb": [
-        null,
-        null,
-        1,
-        null,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null,
-        null
-      ],
-      "/Users/stuartpethurst/Projects/Smart_Dev_Test/lib/list_views.rb": [
-        1,
-        null,
-        1,
-        null,
-        null
-      ],
       "/Users/stuartpethurst/Projects/Smart_Dev_Test/spec/parse_spec.rb": [
         null,
         null,
@@ -33,6 +12,14 @@
         1,
         null,
         null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
         null
       ],
       "/Users/stuartpethurst/Projects/Smart_Dev_Test/lib/parse.rb": [
@@ -42,16 +29,23 @@
         1,
         null,
         1,
+        2,
+        2,
+        null,
+        null,
         1,
+        1002,
+        1002,
         null,
         null,
         1,
         501,
         501,
+        7,
         null,
         null
       ]
     },
-    "timestamp": 1562419494
+    "timestamp": 1562442249
   }
 }
