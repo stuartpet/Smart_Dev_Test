@@ -20,15 +20,20 @@
         null,
         null,
         null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
         null
       ],
       "/Users/stuartpethurst/Projects/Smart_Dev_Test/lib/parse.rb": [
         null,
-        null,
         1,
         1,
-        null,
-        1,
+        2,
         2,
         2,
         null,
@@ -43,9 +48,12 @@
         501,
         7,
         null,
+        null,
+        1,
+        null,
         null
       ]
     },
-    "timestamp": 1562442249
+    "timestamp": 1562504870
   }
 }
