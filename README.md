@@ -1,5 +1,7 @@
 # Smart_Dev_Test
 
+[Requirements](#requirements) | [Getting Started](#getting-started) | [Prerequisites](#prerequisites) | [Installing](#installing) | [Use](#use) | [Running Tests](#running-tests) | [Author](#author)
+
 ## Requirements
 
 1. Write a program that:
@@ -22,11 +24,13 @@ These instructions will get you a copy of the project up and running on your loc
 * This program is tested using Rspec
   
 
-### Installing/Use
+### Installing
 
 1. Clone this repo to your local machine
 2. Use `bundle install`
 3. Open you `REPL`, I have used `IRB` as an example, you may use `PRY` or another alternative
+
+### Use
 
 * Require the file in irb > `require './lib/parse.rb'`
   * you should see `=> true` if the file has been loaded
